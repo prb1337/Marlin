@@ -12,6 +12,13 @@
 	 #define Z_MIN_PROBE_PIN PC14   < Name des Pins, in dem der Sensor eingesteckt ist
 
 
+##
+Unterschiede zu Reddit Guide:  
+Feld | Wert Guide | Wert in Config
+--- | --- | ---
+EXTRUDE_MAXLENGTH  | 200 | 600
+
+
 
 
 ## Hilfreiche Links
@@ -24,3 +31,6 @@ https://www.reddit.com/r/3Dprinting/comments/hx6ab3/bed_leveling_bltouch_inducti
 
 * https://kay3d.com/pages/the-correct-way-to-configure-a-bltouch
 * https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3
+
+
+
