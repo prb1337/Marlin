@@ -17,7 +17,7 @@ Unterschiede zu Reddit Guide:
 Feld | Wert Guide | Wert in Config
 --- | --- | ---
 EXTRUDE_MAXLENGTH  | 200 | 600
-
+CONTROLLER_FAN_PIN | Aktivieren und PC7 | Deaktiviert
 
 
 
