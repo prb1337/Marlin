@@ -31,6 +31,7 @@ https://www.reddit.com/r/3Dprinting/comments/hx6ab3/bed_leveling_bltouch_inducti
 
 * https://kay3d.com/pages/the-correct-way-to-configure-a-bltouch
 * https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3
-
+* https://www.reddit.com/r/ender3/comments/aiebc7/better_cura_start_gcode_for_bltouch/
+* https://www.youtube.com/watch?v=y_1Kg45APko
 
 
